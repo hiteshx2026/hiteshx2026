@@ -60,15 +60,6 @@
 
 <br /><br />
 
-### Statistics
-
----
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiteshx2026&amp;theme=github_dark" width="48%" alt="Hitesh's public GitHub statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiteshx2026&amp;theme=tokyonight" width="48%" alt="Public repositories by primary language" />
-
-<br /><br />
-
 #### Contribution skyline
 
 <picture>
@@ -97,3 +88,4 @@
 <!-- SETUP.md contains installation instructions. Stats use external services.
      Language charts describe public repositories, not proficiency.
      Skyline and snake appear after a successful profile workflow run. -->
+
