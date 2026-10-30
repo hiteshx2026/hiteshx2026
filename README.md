@@ -1,16 +1,99 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hiteshx2026/hiteshx2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hitesh-forest-banner.png" width="100%" alt="Hitesh — a signature over a misty evergreen forest" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+🧠 Learning **Data Science & Machine Learning**  
+💻 Writing code in **Python · Java · C++ · JavaScript**  
+🌐 Building with **HTML & CSS**  
+🔬 Working with **KNIME & MySQL Workbench**
+
+<div align="center">
+
+### Tech Stack
+
+---
+
+<table align="center">
+<tr>
+<td align="center" width="110"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Animated Python icon" /><br /><sub><b>Python</b></sub></td>
+<td align="center" width="110"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Animated Java icon" /><br /><sub><b>Java</b></sub></td>
+<td align="center" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="Animated C++ icon" /><br /><sub><b>C++</b></sub></td>
+<td align="center" width="110"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="Animated JavaScript icon" /><br /><sub><b>JavaScript</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/html-animated.svg" width="65" height="65" alt="Animated HTML tile" /><br /><sub><b>HTML</b></sub></td>
+<td align="center"><img src="./assets/css-animated.svg" width="65" height="65" alt="Animated CSS tile" /><br /><sub><b>CSS</b></sub></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="Animated MySQL icon" /><br /><sub><b>MySQL Workbench</b></sub></td>
+<td align="center"><img src="./assets/knime-animated.svg" width="65" height="65" alt="Animated KNIME workflow tile" /><br /><sub><b>KNIME</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="./assets/sql-animated.svg" width="65" height="65" alt="Animated SQL tile" /><br /><sub><b>SQL</b></sub></td>
+<td align="center" width="110"><img src="./assets/nodejs-animated.svg" width="65" height="65" alt="Animated Node.js tile" /><br /><sub><b>Node.js</b></sub></td>
+<td align="center" width="110"><img src="./assets/linux-animated.svg" width="65" height="65" alt="Animated Linux tile" /><br /><sub><b>Linux</b></sub></td>
+<td align="center" width="110"><img src="./assets/mongodb-animated.svg" width="65" height="65" alt="Animated MongoDB tile" /><br /><sub><b>MongoDB</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="./assets/postgresql-animated.svg" width="65" height="65" alt="Animated PostgreSQL tile" /><br /><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="110"><img src="./assets/pandas-animated.svg" width="65" height="65" alt="Animated Pandas tile" /><br /><sub><b>Pandas</b></sub></td>
+<td align="center" width="110"><img src="./assets/numpy-animated.svg" width="65" height="65" alt="Animated NumPy tile" /><br /><sub><b>NumPy</b></sub></td>
+<td align="center" width="110"><img src="./assets/matplotlib-animated.svg" width="65" height="65" alt="Animated Matplotlib tile" /><br /><sub><b>Matplotlib</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="./assets/pytorch-animated.svg" width="65" height="65" alt="Animated PyTorch tile" /><br /><sub><b>PyTorch</b></sub></td>
+<td align="center" width="110"><img src="./assets/figma-animated.svg" width="65" height="65" alt="Animated Figma tile" /><br /><sub><b>Figma</b></sub></td>
+<td align="center" width="110"><img src="./assets/jupyter-animated.svg" width="65" height="65" alt="Animated Jupyter tile" /><br /><sub><b>Jupyter</b></sub></td>
+<td align="center" width="110"><img src="./assets/git-animated.svg" width="65" height="65" alt="Animated Git tile" /><br /><sub><b>Git</b></sub></td>
+</tr>
+</table>
+
+<br /><br />
+
+### 💻 Spent My Time
+
+<img src="./assets/spent-my-time.svg" width="100%" alt="Animated data workflow: cleaning, preprocessing, visualization and machine learning. Illustrative animation, not measured time tracking." />
+
+<sub>A visual of my data science learning workflow.</sub>
+
+<br /><br />
+
+### Statistics
+
+---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiteshx2026&amp;theme=github_dark" width="48%" alt="Hitesh's public GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiteshx2026&amp;theme=tokyonight" width="48%" alt="Public repositories by primary language" />
+
+<br /><br />
+
+#### Contribution skyline
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="My 3D contribution skyline — generated by the included workflow" />
+</picture>
+
+#### Contribution snake
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+<img src="./assets/github-snake.svg" width="100%" alt="My animated contribution snake — generated by the included workflow" />
+</picture>
+
+
+<br />
+
+---
+
+**Made with ❤️ and curiosity**
+
+<sub>Code. Explore. Keep learning.</sub>
+
+</div>
+
+<!-- SETUP.md contains installation instructions. Stats use external services.
+     Language charts describe public repositories, not proficiency.
+     Skyline and snake appear after a successful profile workflow run. -->
