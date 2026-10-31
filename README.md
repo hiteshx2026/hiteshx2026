@@ -62,10 +62,7 @@
 
 #### Contribution skyline
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg?v=2" />
-<img src="./profile-3d-contrib/profile-green-animate.svg?v=2" width="100%" alt="My 3D contribution skyline" />
-</picture>
+![My contribution skyline](./profile-3d-contrib/profile-green-animate.svg)
 
 #### Contribution snake
 
