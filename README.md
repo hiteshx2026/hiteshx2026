@@ -4,12 +4,12 @@
 
 </div>
 
-### About me
-
-🧠 Learning **Data Science & Machine Learning**  
-💻 Writing code in **Python · Java · C++ · JavaScript**  
-🌐 Building with **HTML & CSS**  
-🔬 Working with **KNIME & MySQL Workbench**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=30&amp;pause=900&amp;color=00B8B8&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Learning%20Data%20Science%20%26%20Machine%20Learning;Coding%20in%20Python%2C%20Java%2C%20C%2B%2B%20%26%20JavaScript;Building%20with%20HTML%20%26%20CSS;Working%20with%20KNIME%20%26%20MySQL%20Workbench"
+    alt="Learning data science and machine learning. Coding in Python, Java, C++, and JavaScript. Building with HTML and CSS. Working with KNIME and MySQL Workbench."
+  />
+</p>
 
 <div align="center">
 
@@ -19,15 +19,15 @@
 
 <table align="center">
 <tr>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Animated Python icon" /><br /><sub><b>Python</b></sub></td>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Animated Java icon" /><br /><sub><b>Java</b></sub></td>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="Animated C++ icon" /><br /><sub><b>C++</b></sub></td>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="Animated JavaScript icon" /><br /><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><img src="./assets/python-icon.svg" width="65" height="65" alt="Animated Python icon" /><br /><sub><b>Python</b></sub></td>
+<td align="center" width="110"><img src="./assets/java-icon.svg" width="65" height="65" alt="Animated Java icon" /><br /><sub><b>Java</b></sub></td>
+<td align="center" width="110"><img src="./assets/cpp-icon.svg" width="65" height="65" alt="Animated C++ icon" /><br /><sub><b>C++</b></sub></td>
+<td align="center" width="110"><img src="./assets/js-icon.svg" width="65" height="65" alt="Animated JavaScript icon" /><br /><sub><b>JavaScript</b></sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/html-animated.svg" width="65" height="65" alt="Animated HTML tile" /><br /><sub><b>HTML</b></sub></td>
 <td align="center"><img src="./assets/css-animated.svg" width="65" height="65" alt="Animated CSS tile" /><br /><sub><b>CSS</b></sub></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="Animated MySQL icon" /><br /><sub><b>MySQL Workbench</b></sub></td>
+<td align="center"><img src="./assets/mysql-icon.svg" width="65" height="65" alt="Animated MySQL icon" /><br /><sub><b>MySQL Workbench</b></sub></td>
 <td align="center"><img src="./assets/knime-animated.svg" width="65" height="65" alt="Animated KNIME workflow tile" /><br /><sub><b>KNIME</b></sub></td>
 </tr>
 <tr>
