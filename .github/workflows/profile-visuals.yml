@@ -39,8 +39,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Save generated artwork
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "hiteshx2026"
+          git config user.email "345684063+hiteshx2026@users.noreply.github.com"
           git add profile-3d-contrib/ assets/github-snake*.svg
           if git diff --staged --quiet; then
             echo "Visuals are already current."
